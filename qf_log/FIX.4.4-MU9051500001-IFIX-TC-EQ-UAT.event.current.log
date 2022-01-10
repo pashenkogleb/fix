@@ -1,0 +1,203 @@
+20220107-09:11:00.679806000 : Created session
+20220107-09:11:02.895974000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-09:11:03.256888000 : Initiated logon request
+20220107-09:11:05.335269000 : Socket Error: Connection reset by peer.
+20220107-09:11:05.335287000 : Disconnecting
+20220107-09:11:23.582687000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-09:11:23.910581000 : Initiated logon request
+20220107-09:11:25.985240000 : Socket Error: Connection reset by peer.
+20220107-09:11:25.985391000 : Disconnecting
+20220107-09:11:43.539974000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-09:11:43.870569000 : Initiated logon request
+20220107-09:11:45.944987000 : Socket Error: Connection reset by peer.
+20220107-09:11:45.945008000 : Disconnecting
+20220107-09:28:19.516459000 : Created session
+20220107-09:28:20.154189000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-09:28:20.494461000 : Initiated logon request
+20220107-09:28:23.701398000 : Received logon response
+20220107-09:28:23.992039000 : Received ResendRequest FROM: 1 TO: 0
+20220107-09:28:23.997783000 : Sent SequenceReset TO: 5
+20220107-09:28:26.582998000 : Message 3 Rejected: Value is incorrect (out of range) for this tag:340
+20220107-09:28:32.707075000 : Message 4 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.724596000 : Message 5 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.732098000 : Message 6 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.740392000 : Message 7 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.746357000 : Message 8 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.754154000 : Message 9 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.761260000 : Message 10 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.768462000 : Message 11 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.775460000 : Message 12 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.785081000 : Message 13 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.790861000 : Message 14 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.800525000 : Message 15 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.808887000 : Message 16 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.815087000 : Message 17 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.821777000 : Message 18 Rejected: Tag not defined for this message type:851
+20220107-09:28:32.828776000 : Message 19 Rejected: Tag not defined for this message type:851
+20220107-09:28:33.000215000 : Message 20 Rejected: Tag not defined for this message type:851
+20220107-09:28:33.010568000 : Message 21 Rejected: Tag not defined for this message type:851
+20220107-09:39:20.731789000 : Created session
+20220107-09:39:23.654211000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-09:39:24.058582000 : Initiated logon request
+20220107-09:39:27.259860000 : Received logon response
+20220107-09:39:36.700361000 : Message 34 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.718137000 : Message 35 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.731025000 : Message 36 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.739458000 : Message 37 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.749954000 : Message 38 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.757986000 : Message 39 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.765909000 : Message 40 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.771723000 : Message 41 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.779228000 : Message 42 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.786773000 : Message 43 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.796648000 : Message 44 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.804051000 : Message 45 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.810380000 : Message 46 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.818286000 : Message 47 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.823990000 : Message 48 Rejected: Tag not defined for this message type:851
+20220107-09:39:36.990971000 : Message 49 Rejected: Tag not defined for this message type:851
+20220107-09:39:37.005514000 : Message 50 Rejected: Tag not defined for this message type:851
+20220107-09:39:37.013197000 : Message 51 Rejected: Tag not defined for this message type:851
+20220107-09:44:49.862299000 : Created session
+20220107-09:44:51.248488000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-09:44:51.560650000 : Initiated logon request
+20220107-09:44:54.765894000 : Received logon response
+20220107-09:45:03.486149000 : Message 59 Rejected: Invalid tag number:1056
+20220107-09:45:03.504403000 : Message 60 Rejected: Invalid tag number:1056
+20220107-09:45:03.511175000 : Message 61 Rejected: Invalid tag number:1056
+20220107-09:45:03.519941000 : Message 62 Rejected: Invalid tag number:1056
+20220107-09:45:03.527165000 : Message 63 Rejected: Invalid tag number:1056
+20220107-09:45:03.535294000 : Message 64 Rejected: Invalid tag number:1056
+20220107-09:45:03.542817000 : Message 65 Rejected: Invalid tag number:1056
+20220107-09:45:03.550031000 : Message 66 Rejected: Invalid tag number:1056
+20220107-09:45:03.555628000 : Message 67 Rejected: Invalid tag number:1056
+20220107-09:45:03.561135000 : Message 68 Rejected: Invalid tag number:1056
+20220107-09:45:03.566620000 : Message 69 Rejected: Invalid tag number:1056
+20220107-09:45:03.572011000 : Message 70 Rejected: Invalid tag number:1056
+20220107-09:45:03.577533000 : Message 71 Rejected: Invalid tag number:1056
+20220107-09:45:03.582864000 : Message 72 Rejected: Invalid tag number:1056
+20220107-09:45:03.594129000 : Message 73 Rejected: Invalid tag number:1056
+20220107-09:45:03.603209000 : Message 74 Rejected: Invalid tag number:1056
+20220107-09:45:03.776535000 : Message 75 Rejected: Invalid tag number:1056
+20220107-09:45:03.784578000 : Message 76 Rejected: Invalid tag number:1056
+20220107-14:20:04.396444000 : Created session
+20220107-14:20:07.968362000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-14:20:07.997452000 : Initiated logon request
+20220107-14:20:07.997582000 : Socket Error: Connection reset by peer.
+20220107-14:20:07.997594000 : Disconnecting
+20220107-14:20:27.322587000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-14:20:27.359014000 : Initiated logon request
+20220107-14:20:27.359059000 : Socket Error: Connection reset by peer.
+20220107-14:20:27.359065000 : Disconnecting
+20220107-14:20:47.193535000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-14:20:47.230220000 : Initiated logon request
+20220107-14:20:47.230276000 : Socket Error: Connection reset by peer.
+20220107-14:20:47.230284000 : Disconnecting
+20220107-14:21:07.527801000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-14:21:07.556542000 : Initiated logon request
+20220107-14:21:07.556578000 : Socket Error: Connection reset by peer.
+20220107-14:21:07.556582000 : Disconnecting
+20220107-14:21:27.432433000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-14:21:27.467193000 : Initiated logon request
+20220107-14:21:27.467230000 : Socket Error: Connection reset by peer.
+20220107-14:21:27.467234000 : Disconnecting
+20220107-14:21:47.863219000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-14:21:47.902280000 : Initiated logon request
+20220107-14:21:47.902317000 : Socket Error: Connection reset by peer.
+20220107-14:21:47.902322000 : Disconnecting
+20220107-14:22:07.766570000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-14:22:07.801323000 : Initiated logon request
+20220107-14:22:07.801355000 : Socket Error: Connection reset by peer.
+20220107-14:22:07.801367000 : Disconnecting
+20220107-14:22:27.269297000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-14:22:27.301528000 : Initiated logon request
+20220107-14:22:27.301566000 : Socket Error: Connection reset by peer.
+20220107-14:22:27.301571000 : Disconnecting
+20220107-14:22:47.066611000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-14:22:47.101349000 : Initiated logon request
+20220107-14:22:47.101387000 : Socket Error: Connection reset by peer.
+20220107-14:22:47.101392000 : Disconnecting
+20220107-14:23:07.109632000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-14:23:07.142838000 : Initiated logon request
+20220107-14:23:07.142881000 : Socket Error: Connection reset by peer.
+20220107-14:23:07.142886000 : Disconnecting
+20220107-14:23:27.333104000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-14:23:27.363131000 : Initiated logon request
+20220107-14:23:27.363164000 : Socket Error: Connection reset by peer.
+20220107-14:23:27.363168000 : Disconnecting
+20220107-14:23:47.157762000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-14:23:47.481708000 : Initiated logon request
+20220107-14:23:50.672187000 : Received logon response
+20220107-14:23:50.962813000 : Received ResendRequest FROM: 77 TO: 0
+20220107-14:23:50.972917000 : Sent SequenceReset TO: 89
+20220107-14:24:04.304912000 : Message 98 Rejected: Incorrect data format for value:828
+20220107-14:24:04.320682000 : Message 99 Rejected: Incorrect data format for value:828
+20220107-14:33:30.627500000 : Created session
+20220107-14:33:32.075726000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-14:33:32.618560000 : Initiated logon request
+20220107-14:33:35.945196000 : Received logon response
+20220107-14:33:45.186848000 : Message 129 Rejected: Incorrect data format for value:828
+20220107-14:33:45.205824000 : Message 130 Rejected: Incorrect data format for value:828
+20220107-14:35:56.087889000 : Created session
+20220107-14:35:57.342729000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-14:35:57.664353000 : Initiated logon request
+20220107-14:36:00.871091000 : Received logon response
+20220107-15:01:57.710275000 : Socket Error: Connection reset by peer
+20220107-15:01:57.710316000 : Disconnecting
+20220107-15:02:17.361388000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-15:02:17.688594000 : Initiated logon request
+20220107-15:02:20.906555000 : Received logon response
+20220107-15:02:20.906586000 : MsgSeqNum too high, expecting 180 but received 181
+20220107-15:02:20.915330000 : Sent ResendRequest FROM: 180 TO: 0
+20220107-15:02:21.209711000 : Received ResendRequest FROM: 131 TO: 0
+20220107-15:02:21.224147000 : Sent SequenceReset TO: 134
+20220107-15:02:21.485584000 : ResendRequest for messages FROM: 180 TO: 180 has been satisfied.
+20220107-15:02:21.501736000 : Received SequenceReset FROM: 180 TO: 183
+20220107-15:02:21.510902000 : Received ResendRequest FROM: 131 TO: 0
+20220107-15:02:21.517980000 : Sent SequenceReset TO: 134
+20220107-15:12:36.309371000 : Created session
+20220107-15:12:37.014642000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-15:12:37.345849000 : Initiated logon request
+20220107-15:12:40.548249000 : Received logon response
+20220107-15:12:40.548291000 : MsgSeqNum too high, expecting 214 but received 215
+20220107-15:12:40.556016000 : Sent ResendRequest FROM: 214 TO: 0
+20220107-15:12:40.848935000 : ResendRequest for messages FROM: 214 TO: 214 has been satisfied.
+20220107-15:12:40.860474000 : Received SequenceReset FROM: 214 TO: 216
+20220107-18:16:03.864542000 : Created session
+20220107-18:16:05.491146000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-18:16:05.821743000 : Initiated logon request
+20220107-18:16:07.892384000 : Socket Error: Connection reset by peer.
+20220107-18:16:07.892426000 : Disconnecting
+20220107-18:16:25.085818000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-18:16:25.428329000 : Initiated logon request
+20220107-18:16:27.510945000 : Socket Error: Connection reset by peer.
+20220107-18:16:27.510979000 : Disconnecting
+20220107-18:16:45.025892000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-18:16:45.362041000 : Initiated logon request
+20220107-18:16:47.430645000 : Socket Error: Connection reset by peer.
+20220107-18:16:47.430704000 : Disconnecting
+20220107-18:17:05.645879000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-18:17:05.968555000 : Initiated logon request
+20220107-18:17:08.040145000 : Socket Error: Connection reset by peer.
+20220107-18:17:08.040187000 : Disconnecting
+20220107-18:17:25.805461000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-18:17:26.134167000 : Initiated logon request
+20220107-18:17:28.211045000 : Socket Error: Connection reset by peer.
+20220107-18:17:28.211090000 : Disconnecting
+20220107-18:17:45.597944000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-18:17:45.924094000 : Initiated logon request
+20220107-18:17:48.006414000 : Socket Error: Connection reset by peer.
+20220107-18:17:48.006459000 : Disconnecting
+20220107-18:23:21.887880000 : Created session
+20220107-18:23:30.020987000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-18:23:30.333462000 : Initiated logon request
+20220107-18:23:32.401011000 : Socket Error: Connection reset by peer.
+20220107-18:23:32.401069000 : Disconnecting
+20220107-18:23:50.594293000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-18:23:50.916753000 : Initiated logon request
+20220107-18:23:54.116726000 : Received logon response
+20220107-18:23:54.408899000 : Received ResendRequest FROM: 302 TO: 0
+20220107-18:23:54.415019000 : Sent SequenceReset TO: 310
+20220107-18:30:13.025142000 : Initiated logout request
+20220107-18:30:13.344529000 : Received logout response
+20220107-18:30:13.344563000 : Disconnecting

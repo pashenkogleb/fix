@@ -1,0 +1,34 @@
+# default settings for sessions
+[DEFAULT]
+ConnectionType=initiator
+ReconnectInterval=20
+SenderCompID=MU9051500004
+BeginString=FIX.4.4
+HeartBtInt=60
+DataDictionary=my_FIX44.xml
+#https://raw.githubusercontent.com/quickfix/quickfix/master/spec/FIX44.xml
+FileStorePath=qf_store
+FileLogPath=qf_log 
+StartTime=00:00:00 
+#not actually needed for MOEX
+EndTime=00:00:00
+#not actually needed for MOEX
+
+#UAT Equities MFIX Trade
+#[SESSION]
+#TargetCompID=IFIX-EQ-UAT
+#SocketConnectPort=9130
+#SocketConnectHost=91.208.232.200
+
+#UAT Equities MFIX Trade Capture
+#[SESSION]
+#TargetCompID=IFIX-TC-EQ-UAT
+#SocketConnectPort=9131
+#SocketConnectHost=91.208.232.200
+
+
+#UAT Equities MFIX Drop copy
+[SESSION]
+TargetCompID=IFIX-DC-EQ-UAT
+SocketConnectPort=9133
+SocketConnectHost=91.208.232.200

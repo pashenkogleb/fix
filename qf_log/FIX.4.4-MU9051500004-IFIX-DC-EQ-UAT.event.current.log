@@ -1,0 +1,7 @@
+20220107-19:20:51.248134000 : Created session
+20220107-19:20:51.252048000 : Connecting to 91.208.232.200 on port 9133 (Source :0)
+20220107-19:20:51.591474000 : Initiated logon request
+20220107-19:20:54.785372000 : Received logon response
+20220107-19:28:15.520812000 : Initiated logout request
+20220107-19:28:15.820707000 : Received logout response
+20220107-19:28:15.820753000 : Disconnecting

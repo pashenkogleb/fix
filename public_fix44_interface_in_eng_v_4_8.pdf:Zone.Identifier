@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://ftp.moex.com/pub/FIX/ASTS/docs/
+HostUrl=http://ftp.moex.com/pub/FIX/ASTS/docs/public_fix44_interface_in_eng_v_4_8.pdf

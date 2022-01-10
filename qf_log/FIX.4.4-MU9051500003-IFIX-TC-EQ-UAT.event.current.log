@@ -1,0 +1,9 @@
+20220107-19:16:00.488398000 : Created session
+20220107-19:16:00.490880000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-19:16:00.795534000 : Initiated logon request
+20220107-19:16:02.861637000 : Socket Error: Connection reset by peer.
+20220107-19:16:02.861675000 : Disconnecting
+20220107-19:16:20.361390000 : Connecting to 91.208.232.200 on port 9131 (Source :0)
+20220107-19:16:20.673130000 : Initiated logon request
+20220107-19:16:22.742483000 : Socket Error: Connection reset by peer.
+20220107-19:16:22.742524000 : Disconnecting

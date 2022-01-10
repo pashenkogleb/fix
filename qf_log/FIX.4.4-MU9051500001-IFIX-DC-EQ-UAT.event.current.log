@@ -1,0 +1,19 @@
+20220107-09:11:00.673893000 : Created session
+20220107-09:11:02.895870000 : Connecting to 91.208.232.200 on port 9133 (Source :0)
+20220107-09:11:03.232824000 : Initiated logon request
+20220107-09:11:05.334840000 : Socket Error: Connection reset by peer.
+20220107-09:11:05.334871000 : Disconnecting
+20220107-09:11:23.582590000 : Connecting to 91.208.232.200 on port 9133 (Source :0)
+20220107-09:11:23.903344000 : Initiated logon request
+20220107-09:11:25.984015000 : Socket Error: Connection reset by peer.
+20220107-09:11:25.984048000 : Disconnecting
+20220107-09:11:43.539839000 : Connecting to 91.208.232.200 on port 9133 (Source :0)
+20220107-09:11:43.863312000 : Initiated logon request
+20220107-09:11:45.944374000 : Socket Error: Connection reset by peer.
+20220107-09:11:45.944421000 : Disconnecting
+20220107-09:12:42.816200000 : Created session
+20220107-09:12:45.897236000 : Connecting to 91.208.232.200 on port 9133 (Source :0)
+20220107-09:12:46.222087000 : Initiated logon request
+20220107-09:12:49.418535000 : Received logon response
+20220107-09:12:49.427480000 : Received ResendRequest FROM: 1 TO: 0
+20220107-09:12:49.433486000 : Sent SequenceReset TO: 5

@@ -1,0 +1,391 @@
+20220106-06:25:18.829607000 : Created session
+20220106-06:36:43.206143000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220106-06:36:43.719503000 : Initiated logon request
+20220106-06:36:45.988314000 : Received logon response
+20220106-06:37:57.388578000 : Sent test request TEST
+20220106-06:39:09.508680000 : Sent test request TEST
+20220106-06:58:26.671866000 : Created session
+20220106-06:58:27.900439000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220106-06:58:28.297456000 : Initiated logon request
+20220106-06:58:30.742294000 : Received logon response
+20220106-07:44:52.104149000 : Created session
+20220106-07:44:53.378096000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220106-07:44:53.821382000 : Initiated logon request
+20220106-07:44:56.451548000 : Received logon response
+20220106-07:53:30.903846000 : Message 73 Rejected: Required tag missing:54
+20220106-07:54:15.347547000 : Sent test request TEST
+20220106-08:01:30.982494000 : Message 82 Rejected: Required tag missing:54
+20220106-08:19:11.725266000 : Message 102 Rejected: Required tag missing:54
+20220106-08:20:07.081678000 : Sent test request TEST
+20220106-08:20:45.815756000 : Message 104 Rejected: Required tag missing:54
+20220106-08:21:19.184289000 : Sent test request TEST
+20220106-08:21:31.270831000 : Message 106 Rejected: Required tag missing:54
+20220106-08:22:38.196210000 : Message 108 Rejected: Required tag missing:54
+20220106-08:23:24.797976000 : Message 109 Rejected: Required tag missing:54
+20220106-08:23:42.342281000 : Sent test request TEST
+20220106-08:23:50.533735000 : Message 111 Rejected: Invalid tag number:5979
+20220106-08:24:05.849457000 : Message 112 Rejected: Invalid tag number:5979
+20220106-08:24:54.523481000 : Sent test request TEST
+20220106-08:28:54.007323000 : Message 118 Rejected: Invalid tag number:5979
+20220106-08:29:30.891935000 : Message 119 Rejected: Invalid tag number:5979
+20220106-08:29:40.414310000 : Message 120 Rejected: Invalid tag number:5979
+20220106-08:30:05.313156000 : Sent test request TEST
+20220106-08:33:07.868842000 : Message 125 Rejected: Invalid tag number:5979
+20220106-08:34:23.274637000 : Message 127 Rejected: Invalid tag number:5979
+20220106-08:34:54.899945000 : Message 128 Rejected: Invalid tag number:5979
+20220106-08:35:18.093821000 : Sent test request TEST
+20220106-08:38:00.817003000 : Created session
+20220106-08:38:02.196904000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220106-08:38:02.553350000 : Initiated logon request
+20220106-08:38:04.797368000 : Received logon response
+20220106-08:41:05.560042000 : Created session
+20220106-08:41:06.637083000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220106-08:41:06.993289000 : Initiated logon request
+20220106-08:41:09.217014000 : Received logon response
+20220106-08:41:36.897533000 : Message 134 Rejected: Invalid tag number:5979
+20220106-08:41:55.609544000 : Message 135 Rejected: Invalid tag number:5979
+20220106-08:42:21.464978000 : Sent test request TEST
+20220106-08:48:41.623422000 : Created session
+20220106-08:48:42.786893000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220106-08:48:43.144181000 : Initiated logon request
+20220106-08:48:45.367985000 : Received logon response
+20220106-08:49:01.550147000 : Message 144 Rejected: Invalid tag number:5979
+20220106-08:49:57.700966000 : Sent test request TEST
+20220106-08:50:22.215007000 : Message 146 Rejected: Invalid tag number:5979
+20220106-08:51:10.091345000 : Sent test request TEST
+20220106-08:52:31.184455000 : Message 149 Rejected: Invalid tag number:5979
+20220106-08:53:22.022286000 : Sent test request TEST
+20220106-08:58:25.161758000 : Message 156 Rejected: Invalid tag number:5979
+20220106-09:08:01.072004000 : Created session
+20220106-09:08:01.419425000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220106-09:08:01.780947000 : Initiated logon request
+20220106-09:08:04.005344000 : Received logon response
+20220106-09:12:09.173456000 : Message 171 Rejected: Invalid tag number:9412
+20220106-09:12:27.571003000 : Sent test request TEST
+20220106-09:45:57.789396000 : Created session
+20220106-09:45:58.760132000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220106-09:45:59.162666000 : Initiated logon request
+20220106-09:46:01.717056000 : Received logon response
+20220107-07:26:33.760245000 : Created session
+20220107-07:26:33.942662000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-07:26:34.271954000 : Initiated logon request
+20220107-07:26:36.470234000 : Received logon response
+20220107-07:27:48.513185000 : Sent test request TEST
+20220107-07:29:00.515574000 : Sent test request TEST
+20220107-07:30:12.372538000 : Sent test request TEST
+20220107-07:31:24.653264000 : Sent test request TEST
+20220107-07:32:36.045001000 : Sent test request TEST
+20220107-07:33:08.890809000 : Created session
+20220107-07:33:09.289179000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-07:33:09.621861000 : Initiated logon request
+20220107-07:33:11.822214000 : Received logon response
+20220107-07:34:57.550792000 : Sent test request TEST
+20220107-07:36:09.636473000 : Sent test request TEST
+20220107-07:37:21.700956000 : Sent test request TEST
+20220107-07:38:34.057127000 : Sent test request TEST
+20220107-07:39:46.569677000 : Sent test request TEST
+20220107-07:40:58.539569000 : Sent test request TEST
+20220107-07:43:42.287944000 : Sent test request TEST
+20220107-07:44:54.073142000 : Sent test request TEST
+20220107-07:46:06.058072000 : Sent test request TEST
+20220107-07:47:18.237989000 : Sent test request TEST
+20220107-07:48:30.201934000 : Sent test request TEST
+20220107-07:49:42.650563000 : Sent test request TEST
+20220107-07:50:54.415736000 : Sent test request TEST
+20220107-07:52:06.173488000 : Sent test request TEST
+20220107-07:53:13.774475000 : Message 26 Rejected: Tag not defined for this message type:278
+20220107-07:53:13.788514000 : Message 27 Rejected: Tag not defined for this message type:278
+20220107-07:53:18.158045000 : Sent test request TEST
+20220107-07:54:30.179079000 : Sent test request TEST
+20220107-07:55:42.149397000 : Sent test request TEST
+20220107-07:56:54.110627000 : Sent test request TEST
+20220107-07:57:25.847160000 : Created session
+20220107-07:57:26.598899000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-07:57:26.919501000 : Initiated logon request
+20220107-07:57:29.112097000 : Received logon response
+20220107-07:58:51.089225000 : Sent test request TEST
+20220107-08:00:03.351151000 : Sent test request TEST
+20220107-08:01:15.259539000 : Sent test request TEST
+20220107-08:02:27.042273000 : Sent test request TEST
+20220107-08:09:51.196224000 : Created session
+20220107-08:09:52.537636000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-08:09:52.867692000 : Initiated logon request
+20220107-08:09:55.068570000 : Received logon response
+20220107-08:14:16.566646000 : Created session
+20220107-08:14:16.676647000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-08:14:17.001554000 : Initiated logon request
+20220107-08:14:19.199939000 : Received logon response
+20220107-08:15:28.397242000 : Created session
+20220107-08:15:28.742770000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-08:15:29.071142000 : Initiated logon request
+20220107-08:15:31.266950000 : Received logon response
+20220107-08:16:23.757261000 : Created session
+20220107-08:16:30.232153000 : Created session
+20220107-08:16:30.374305000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-08:16:30.703684000 : Initiated logon request
+20220107-08:16:32.894823000 : Received logon response
+20220107-08:17:31.207097000 : Created session
+20220107-08:17:31.215726000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-08:17:31.403745000 : Created session
+20220107-08:17:37.063625000 : Created session
+20220107-08:17:37.565848000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-08:17:37.892662000 : Initiated logon request
+20220107-08:17:40.091386000 : Received logon response
+20220107-08:17:40.091413000 : MsgSeqNum too high, expecting 65 but received 66
+20220107-08:17:40.098291000 : Sent ResendRequest FROM: 65 TO: 0
+20220107-08:17:40.417044000 : ResendRequest for messages FROM: 65 TO: 65 has been satisfied.
+20220107-08:17:40.433318000 : Processing QUEUED message: 66
+20220107-08:21:16.614186000 : Created session
+20220107-08:21:16.724686000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-08:21:17.052282000 : Initiated logon request
+20220107-08:21:19.246090000 : Received logon response
+20220107-08:22:49.757697000 : Created session
+20220107-08:22:50.211621000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-08:22:50.602614000 : Initiated logon request
+20220107-08:22:52.791664000 : Received logon response
+20220107-08:30:20.342234000 : Created session
+20220107-08:30:22.161374000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-08:30:22.485242000 : Initiated logon request
+20220107-08:30:24.672051000 : Received logon response
+20220107-09:11:00.677092000 : Created session
+20220107-09:11:02.895952000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-09:11:03.240748000 : Initiated logon request
+20220107-09:11:05.432577000 : Received logon response
+20220107-18:16:03.861635000 : Created session
+20220107-18:16:05.491035000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-18:16:05.813643000 : Initiated logon request
+20220107-18:16:06.880609000 : Socket Error: Connection reset by peer.
+20220107-18:16:06.880651000 : Disconnecting
+20220107-18:16:25.085671000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-18:16:25.418095000 : Initiated logon request
+20220107-18:16:26.511104000 : Socket Error: Connection reset by peer.
+20220107-18:16:26.511145000 : Disconnecting
+20220107-18:16:45.025770000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-18:16:45.352134000 : Initiated logon request
+20220107-18:16:47.544315000 : Received logon response
+20220107-18:16:47.553424000 : Received ResendRequest FROM: 153 TO: 0
+20220107-18:16:47.561005000 : Sent SequenceReset TO: 156
+20220107-18:22:38.094890000 : Created session
+20220107-18:22:44.130914000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-18:22:44.450864000 : Initiated logon request
+20220107-18:22:46.647123000 : Received logon response
+20220107-18:23:46.357717000 : Initiated logout request
+20220107-18:23:46.699975000 : Received logout response
+20220107-18:23:46.700019000 : Disconnecting
+20220107-18:29:23.398291000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-18:29:23.778072000 : Initiated logon request
+20220107-18:29:24.852739000 : Socket Error: Connection reset by peer.
+20220107-18:29:24.852833000 : Disconnecting
+20220107-18:29:43.046175000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-18:29:43.362414000 : Initiated logon request
+20220107-18:29:44.432356000 : Socket Error: Connection reset by peer.
+20220107-18:29:44.432414000 : Disconnecting
+20220107-18:30:03.361124000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-18:30:03.685999000 : Initiated logon request
+20220107-18:30:04.779825000 : Socket Error: Connection reset by peer.
+20220107-18:30:04.779858000 : Disconnecting
+20220107-18:30:23.147728000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-18:30:23.193851000 : Created session
+20220107-18:30:35.903572000 : Created session
+20220107-18:30:45.495957000 : Created session
+20220107-18:30:55.791795000 : Created session
+20220107-18:30:55.794114000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-18:30:56.115802000 : Initiated logon request
+20220107-18:30:58.309490000 : Received logon response
+20220107-18:30:58.320012000 : Received ResendRequest FROM: 160 TO: 0
+20220107-18:30:58.326435000 : Sent SequenceReset TO: 164
+20220107-19:03:05.033482000 : Sent test request TEST
+20220107-19:03:17.408087000 : Socket Error: Connection reset by peer.
+20220107-19:03:17.408096000 : Disconnecting
+20220107-19:04:07.520077000 : Created session
+20220107-19:04:07.523037000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:04:07.811385000 : Initiated logon request
+20220107-19:04:09.974132000 : Message 187 Rejected: Tag not defined for this message type:58
+20220107-19:04:09.974242000 : Tried to send a reject while not logged on
+20220107-19:04:09.974294000 : Logon state is not valid for message
+20220107-19:04:09.974298000 : Disconnecting
+20220107-19:04:09.978626000 : Initiated logon request
+20220107-19:04:27.624941000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:04:27.931898000 : Initiated logon request
+20220107-19:04:30.247140000 : Message 189 Rejected: Tag not defined for this message type:58
+20220107-19:04:30.247166000 : Tried to send a reject while not logged on
+20220107-19:04:30.247202000 : Logon state is not valid for message
+20220107-19:04:30.247206000 : Disconnecting
+20220107-19:04:30.249664000 : Initiated logon request
+20220107-19:04:47.242253000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:04:47.539559000 : Initiated logon request
+20220107-19:04:49.716781000 : Message 191 Rejected: Tag not defined for this message type:58
+20220107-19:04:49.716815000 : Tried to send a reject while not logged on
+20220107-19:04:49.716871000 : Logon state is not valid for message
+20220107-19:04:49.716875000 : Disconnecting
+20220107-19:04:49.719571000 : Initiated logon request
+20220107-19:05:07.344681000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:05:07.639285000 : Initiated logon request
+20220107-19:05:09.803320000 : Message 193 Rejected: Tag not defined for this message type:58
+20220107-19:05:09.803335000 : Tried to send a reject while not logged on
+20220107-19:05:09.803354000 : Logon state is not valid for message
+20220107-19:05:09.803356000 : Disconnecting
+20220107-19:05:09.805010000 : Initiated logon request
+20220107-19:05:27.232217000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:05:27.544283000 : Initiated logon request
+20220107-19:05:29.708159000 : Message 195 Rejected: Tag not defined for this message type:58
+20220107-19:05:29.708187000 : Tried to send a reject while not logged on
+20220107-19:05:29.708272000 : Logon state is not valid for message
+20220107-19:05:29.708295000 : Disconnecting
+20220107-19:05:29.710842000 : Initiated logon request
+20220107-19:05:47.704395000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:05:47.999575000 : Initiated logon request
+20220107-19:05:50.165685000 : Message 197 Rejected: Tag not defined for this message type:58
+20220107-19:05:50.165716000 : Tried to send a reject while not logged on
+20220107-19:05:50.165784000 : Logon state is not valid for message
+20220107-19:05:50.165786000 : Disconnecting
+20220107-19:05:50.168075000 : Initiated logon request
+20220107-19:06:07.057006000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:06:07.366609000 : Initiated logon request
+20220107-19:06:09.548514000 : Message 199 Rejected: Tag not defined for this message type:58
+20220107-19:06:09.548537000 : Tried to send a reject while not logged on
+20220107-19:06:09.548610000 : Logon state is not valid for message
+20220107-19:06:09.548620000 : Disconnecting
+20220107-19:06:09.552131000 : Initiated logon request
+20220107-19:06:27.819083000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:06:28.201445000 : Initiated logon request
+20220107-19:06:30.376727000 : Message 201 Rejected: Tag not defined for this message type:58
+20220107-19:06:30.376738000 : Tried to send a reject while not logged on
+20220107-19:06:30.376751000 : Logon state is not valid for message
+20220107-19:06:30.376753000 : Disconnecting
+20220107-19:06:30.378665000 : Initiated logon request
+20220107-19:06:37.360162000 : Created session
+20220107-19:06:37.364232000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:06:37.684522000 : Initiated logon request
+20220107-19:06:39.853483000 : Message 203 Rejected: Tag not defined for this message type:58
+20220107-19:06:39.853515000 : Tried to send a reject while not logged on
+20220107-19:06:39.853553000 : Logon state is not valid for message
+20220107-19:06:39.853558000 : Disconnecting
+20220107-19:06:39.867137000 : Initiated logon request
+20220107-19:06:57.054836000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:06:57.355553000 : Initiated logon request
+20220107-19:06:59.523867000 : Message 205 Rejected: Tag not defined for this message type:58
+20220107-19:06:59.523884000 : Tried to send a reject while not logged on
+20220107-19:06:59.523925000 : Logon state is not valid for message
+20220107-19:06:59.523928000 : Disconnecting
+20220107-19:06:59.535363000 : Initiated logon request
+20220107-19:07:17.116391000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:07:17.431152000 : Initiated logon request
+20220107-19:07:19.603122000 : Message 207 Rejected: Tag not defined for this message type:58
+20220107-19:07:19.603150000 : Tried to send a reject while not logged on
+20220107-19:07:19.603223000 : Logon state is not valid for message
+20220107-19:07:19.603227000 : Disconnecting
+20220107-19:07:19.615028000 : Initiated logon request
+20220107-19:07:37.460676000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:07:37.769671000 : Initiated logon request
+20220107-19:07:39.947620000 : Message 209 Rejected: Tag not defined for this message type:58
+20220107-19:07:39.947645000 : Tried to send a reject while not logged on
+20220107-19:07:39.947737000 : Logon state is not valid for message
+20220107-19:07:39.947742000 : Disconnecting
+20220107-19:07:39.959923000 : Initiated logon request
+20220107-19:07:57.101462000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:07:57.410861000 : Initiated logon request
+20220107-19:07:59.580165000 : Message 211 Rejected: Tag not defined for this message type:58
+20220107-19:07:59.580179000 : Tried to send a reject while not logged on
+20220107-19:07:59.580215000 : Logon state is not valid for message
+20220107-19:07:59.580218000 : Disconnecting
+20220107-19:07:59.590813000 : Initiated logon request
+20220107-19:08:17.755550000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:08:18.061256000 : Initiated logon request
+20220107-19:08:20.227372000 : Message 213 Rejected: Tag not defined for this message type:58
+20220107-19:08:20.227412000 : Tried to send a reject while not logged on
+20220107-19:08:20.227465000 : Logon state is not valid for message
+20220107-19:08:20.227473000 : Disconnecting
+20220107-19:08:20.239895000 : Initiated logon request
+20220107-19:08:32.592903000 : Created session
+20220107-19:08:44.592826000 : Created session
+20220107-19:08:44.595518000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:08:44.901774000 : Initiated logon request
+20220107-19:08:47.075586000 : Received logon response
+20220107-19:08:47.075610000 : MsgSeqNum too high, expecting 187 but received 215
+20220107-19:08:47.083245000 : Sent ResendRequest FROM: 187 TO: 0
+20220107-19:08:47.090095000 : Received ResendRequest FROM: 195 TO: 0
+20220107-19:08:47.098820000 : Sent SequenceReset TO: 229
+20220107-19:08:47.378123000 : Received SequenceReset FROM: 187 TO: 217
+20220107-19:08:47.384303000 : Received ResendRequest FROM: 195 TO: 0
+20220107-19:08:47.391877000 : Sent SequenceReset TO: 229
+20220107-19:09:21.445931000 : Initiated logout request
+20220107-19:09:21.747631000 : Received logout response
+20220107-19:09:21.747680000 : Disconnecting
+20220107-19:09:43.169908000 : Created session
+20220107-19:09:51.780333000 : Created session
+20220107-19:09:51.781976000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:09:52.090975000 : Initiated logon request
+20220107-19:09:54.259349000 : Message 219 Rejected: Tag not defined for this message type:58
+20220107-19:09:54.259384000 : Tried to send a reject while not logged on
+20220107-19:10:02.102967000 : Timed out waiting for logon response
+20220107-19:10:02.103011000 : Disconnecting
+20220107-19:10:02.116634000 : Initiated logon request
+20220107-19:10:12.665020000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:10:12.972637000 : Initiated logon request
+20220107-19:10:15.152479000 : Message 220 Rejected: Tag not defined for this message type:58
+20220107-19:10:15.152512000 : Tried to send a reject while not logged on
+20220107-19:10:15.152573000 : Logon state is not valid for message
+20220107-19:10:15.152578000 : Disconnecting
+20220107-19:10:15.163089000 : Initiated logon request
+20220107-19:10:32.758313000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:10:33.070450000 : Initiated logon request
+20220107-19:10:35.254869000 : Message 222 Rejected: Tag not defined for this message type:58
+20220107-19:10:35.254898000 : Tried to send a reject while not logged on
+20220107-19:10:35.254981000 : Logon state is not valid for message
+20220107-19:10:35.254986000 : Disconnecting
+20220107-19:10:35.267789000 : Initiated logon request
+20220107-19:10:52.242654000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:10:52.554110000 : Initiated logon request
+20220107-19:10:54.738018000 : Message 224 Rejected: Tag not defined for this message type:58
+20220107-19:10:54.738042000 : Tried to send a reject while not logged on
+20220107-19:10:54.738093000 : Logon state is not valid for message
+20220107-19:10:54.738098000 : Disconnecting
+20220107-19:10:54.751339000 : Initiated logon request
+20220107-19:11:12.559770000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:11:12.869063000 : Initiated logon request
+20220107-19:11:16.809653000 : Created session
+20220107-19:11:42.300702000 : Created session
+20220107-19:11:42.303697000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:11:42.609880000 : Initiated logon request
+20220107-19:11:44.779476000 : Message 228 Rejected: Tag not defined for this message type:58
+20220107-19:11:44.779505000 : Tried to send a reject while not logged on
+20220107-19:11:44.779547000 : Logon state is not valid for message
+20220107-19:11:44.779553000 : Disconnecting
+20220107-19:11:44.790952000 : Initiated logon request
+20220107-19:12:02.162551000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:12:02.472630000 : Initiated logon request
+20220107-19:12:04.650173000 : Message 230 Rejected: Tag not defined for this message type:58
+20220107-19:12:04.650193000 : Tried to send a reject while not logged on
+20220107-19:12:04.650233000 : Logon state is not valid for message
+20220107-19:12:04.650240000 : Disconnecting
+20220107-19:12:04.661852000 : Initiated logon request
+20220107-19:12:22.331295000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:12:22.872150000 : Initiated logon request
+20220107-19:12:25.187525000 : Message 232 Rejected: Tag not defined for this message type:58
+20220107-19:12:25.187560000 : Tried to send a reject while not logged on
+20220107-19:12:25.187594000 : Logon state is not valid for message
+20220107-19:12:25.187599000 : Disconnecting
+20220107-19:12:25.199020000 : Initiated logon request
+20220107-19:12:42.260493000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:12:42.572322000 : Initiated logon request
+20220107-19:12:52.883097000 : Created session
+20220107-19:13:03.714152000 : Created session
+20220107-19:13:03.716296000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:13:04.030388000 : Initiated logon request
+20220107-19:13:06.223669000 : Received logon response
+20220107-19:13:06.223706000 : MsgSeqNum too high, expecting 219 but received 236
+20220107-19:13:06.231237000 : Sent ResendRequest FROM: 219 TO: 0
+20220107-19:13:06.239360000 : Received ResendRequest FROM: 231 TO: 0
+20220107-19:13:06.247164000 : Sent SequenceReset TO: 248
+20220107-19:13:06.529778000 : Received SequenceReset FROM: 219 TO: 238
+20220107-19:13:06.535858000 : Received ResendRequest FROM: 231 TO: 0
+20220107-19:13:06.544116000 : Sent SequenceReset TO: 248
+20220107-19:14:06.220854000 : ResendRequest for messages FROM: 219 TO: 235 has been satisfied.
+20220107-19:19:18.194995000 : Created session
+20220107-19:19:18.197032000 : Connecting to 91.208.232.200 on port 9130 (Source :0)
+20220107-19:19:18.506931000 : Initiated logon request
+20220107-19:19:20.894300000 : Received logon response
+20220107-19:28:13.528907000 : Initiated logout request
+20220107-19:28:13.830253000 : Received logout response
+20220107-19:28:13.830308000 : Disconnecting
